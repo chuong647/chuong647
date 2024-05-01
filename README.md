@@ -6,7 +6,7 @@
 
 - ✍ I'm a student of: [Quy Nhon University](https://www.qnu.edu.vn/) (QNU).
 
-- 🌱 I’m currently learning **MERN Stack.**
+- 🌱 I am currently studying at school.
 
 <br />
 
@@ -62,7 +62,7 @@
   </tr>
 </table>
 
-# Certificates:
+## Certificates:
 
 <img align="right" width="400" src="https://github.githubassets.com/images/modules/profile/profile-joined-github.svg">
 
@@ -76,7 +76,7 @@
 - [![KAGGLE](https://img.shields.io/badge/-KAGGLE-blue) Python](https://www.kaggle.com/learn/certification/nguyenhuynhminhtien/python)
 - [![KAGGLE](https://img.shields.io/badge/-KAGGLE-blue) Intro to Machine Learning](https://www.kaggle.com/learn/certification/nguyenhuynhminhtien/intro-to-machine-learning)
 - [![KAGGLE](https://img.shields.io/badge/-KAGGLE-blue) Intro to Deep Learning](https://www.kaggle.com/learn/certification/nguyenhuynhminhtien/intro-to-deep-learning)
-# Source Code:
+## Source Code:
 <a href="https://github.com/chuong647/QuanLyQuanCafeLike/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=chuong647&repo=QuanLyQuanCafeLike&theme=radical" />
