@@ -30,14 +30,12 @@
 
 </div>
 
-<hr />
+---
 
 ### 🛠️ Tech Stack & Tools
 
 <p align="center">
-  <!-- Languages & Frameworks -->
   <img src="https://skillicons.dev/icons?i=java,dotnet,spring,cs,php,js&theme=dark" /><br/><br/>
-  <!-- Databases & Tools -->
   <img src="https://skillicons.dev/icons?i=mysql,postgres,git,github,idea,vscode,visualstudio&theme=dark" />
 </p>
 
@@ -45,24 +43,16 @@
 
 ### 📊 GitHub Stats & Streak
 
-<div align="center">
-  <table border="0">
-    <tr>
-      <td width="50%" valign="top">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chuong647&layout=compact&theme=radical&hide_border=true&hide=CSS,HTML&hide_title=false" width="100%" />
-      </td>
-      <td width="50%" valign="top">
-        <img src="https://github-readme-stats.vercel.app/api?username=chuong647&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" width="100%" />
-      </td>
-    </tr>
-  </table>
-  
-  <br/>
-  <!-- GitHub Streak Stats -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=chuong647&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chuong647&layout=compact&theme=radical&hide_border=true&hide=CSS,HTML" height="165" />
+</p>
+
+<p align="center">
   <a href="https://github.com/chuong647">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=chuong647&theme=radical&hide_border=true" alt="GitHub Streak" width="95%" />
+    <img src="https://streak-stats.demolab.com/?user=chuong647&theme=radical&hide_border=true" alt="GitHub Streak" width="90%" />
   </a>
-</div>
+</p>
 
 ---
 
@@ -77,7 +67,7 @@
 
 ### 📌 Featured Projects
 
-<div align="center">
+<p align="center">
   <a href="https://github.com/chuong647/QuanLyQuanCafeLike">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=chuong647&repo=QuanLyQuanCafeLike&theme=radical&hide_border=true" />
   </a>
@@ -93,7 +83,7 @@
   <a href="https://github.com/chuong647/DTDD">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=chuong647&repo=DTDD&theme=radical&hide_border=true" />
   </a>
-</div>
+</p>
 
 <br />
 
