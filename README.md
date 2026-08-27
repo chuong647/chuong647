@@ -41,21 +41,6 @@
 
 ---
 
-### 📊 GitHub Stats & Streak
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chuong647&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chuong647&layout=compact&theme=radical&hide_border=true&hide=CSS,HTML" height="165" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/chuong647">
-    <img src="https://streak-stats.demolab.com/?user=chuong647&theme=radical&hide_border=true" alt="GitHub Streak" width="90%" />
-  </a>
-</p>
-
----
-
 ### 📜 Certificates
 
 - 🟠 **MATLAB**: [Onramp Certificate](https://matlabacademy.mathworks.com/progress/share/certificate.html?id=c2f444b8-d6ce-4eef-9934-48d7fa7da2d1)
@@ -65,23 +50,23 @@
 
 ---
 
-### 📌 Featured Projects
+### 📌 Featured Repositories
 
 <p align="center">
   <a href="https://github.com/chuong647/QuanLyQuanCafeLike">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=chuong647&repo=QuanLyQuanCafeLike&theme=radical&hide_border=true" />
+    <img src="https://img.shields.io/badge/Project-QuanLyQuanCafeLike-fe428e?style=for-the-badge&logo=github" />
   </a>
   <a href="https://github.com/chuong647/QuanLyVeMayBay">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=chuong647&repo=QuanLyVeMayBay&theme=radical&hide_border=true" />
+    <img src="https://img.shields.io/badge/Project-QuanLyVeMayBay-fe428e?style=for-the-badge&logo=github" />
   </a>
   <a href="https://github.com/chuong647/STSV">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=chuong647&repo=STSV&theme=radical&hide_border=true" />
+    <img src="https://img.shields.io/badge/Project-STSV-fe428e?style=for-the-badge&logo=github" />
   </a>
   <a href="https://github.com/chuong647/QuanLyKhachSan">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=chuong647&repo=QuanLyKhachSan&theme=radical&hide_border=true" />
+    <img src="https://img.shields.io/badge/Project-QuanLyKhachSan-fe428e?style=for-the-badge&logo=github" />
   </a>
   <a href="https://github.com/chuong647/DTDD">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=chuong647&repo=DTDD&theme=radical&hide_border=true" />
+    <img src="https://img.shields.io/badge/Project-DTDD-fe428e?style=for-the-badge&logo=github" />
   </a>
 </p>
 
