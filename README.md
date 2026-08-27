@@ -1,92 +1,102 @@
-<img align="left" width="400" src="https://github.githubassets.com/images/modules/profile/profile-first-repo.svg">
-<h1 align="center">Hi 👋, I'm Dang Thanh Chuong</h1>
+<div align="center">
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=fe428e&height=200&section=header&text=Đặng%20Thành%20Chương&fontSize=50&animation=fadeIn&fontAlignY=38" width="100%" />
+
+  <h3>👨‍💻 Software Developer | Content Creator 🇻🇳</h3>
+
+  <p>
+    🎓 Cựu sinh viên <b>Đại học Quy Nhơn (QNU)</b><br/>
+    🚀 Đam mê xây dựng các hệ thống backend mạnh mẽ và giải pháp phần mềm tối ưu.
+  </p>
+
+  <!-- Social Links -->
+  <p align="center">
+    <a href="https://linkedin.com/in/dangthanhchuong6767" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://github.com/chuong647" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+    <a href="https://www.facebook.com/chuong647" target="_blank">
+      <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+    </a>
+    <a href="https://www.youtube.com/channel/UCRcau6ROt4nCbGTVaC6MaFg" target="_blank">
+      <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+    </a>
+    <a href="mailto:dangthanhchuong0202it@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+  </p>
+
+</div>
+
+<hr />
+
+### 🛠️ Tech Stack & Tools
+
 <p align="center">
-  <h3 align="center">A passionate developer from Vietnam 🇻🇳 </h3>
+  <!-- Languages & Frameworks -->
+  <img src="https://skillicons.dev/icons?i=java,dotnet,spring,cs,php,js&theme=dark" /><br/><br/>
+  <!-- Databases & Tools -->
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,git,github,idea,vscode,visualstudio&theme=dark" />
 </p>
 
-- ✍ I'm a student of: [Quy Nhon University](https://www.qnu.edu.vn/) (QNU).
+---
 
-- 🌱 I am currently studying at school.
+### 📊 GitHub Stats & Streak
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td width="50%" valign="top">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chuong647&layout=compact&theme=radical&hide_border=true&hide=CSS,HTML&hide_title=false" width="100%" />
+      </td>
+      <td width="50%" valign="top">
+        <img src="https://github-readme-stats.vercel.app/api?username=chuong647&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" width="100%" />
+      </td>
+    </tr>
+  </table>
+  
+  <br/>
+  <!-- GitHub Streak Stats -->
+  <a href="https://github.com/chuong647">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=chuong647&theme=radical&hide_border=true" alt="GitHub Streak" width="95%" />
+  </a>
+</div>
+
+---
+
+### 📜 Certificates
+
+- 🟠 **MATLAB**: [Onramp Certificate](https://matlabacademy.mathworks.com/progress/share/certificate.html?id=c2f444b8-d6ce-4eef-9934-48d7fa7da2d1)
+- 🟠 **MATLAB**: [Machine Learning Onramp](https://matlabacademy.mathworks.com/progress/share/certificate.html?id=ad7fb8de-67d7-487f-95ee-f3871a61b1e1)
+- 🟢 **Coursera**: [Introduction to JavaScript](https://www.coursera.org/account/accomplishments/certificate/XFNU3UXCK5DG)
+- 🟢 **Coursera**: [Audio Classification with TensorFlow](https://www.coursera.org/account/accomplishments/certificate/MBSDFCKQ9X8E)
+
+---
+
+### 📌 Featured Projects
+
+<div align="center">
+  <a href="https://github.com/chuong647/QuanLyQuanCafeLike">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=chuong647&repo=QuanLyQuanCafeLike&theme=radical&hide_border=true" />
+  </a>
+  <a href="https://github.com/chuong647/QuanLyVeMayBay">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=chuong647&repo=QuanLyVeMayBay&theme=radical&hide_border=true" />
+  </a>
+  <a href="https://github.com/chuong647/STSV">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=chuong647&repo=STSV&theme=radical&hide_border=true" />
+  </a>
+  <a href="https://github.com/chuong647/QuanLyKhachSan">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=chuong647&repo=QuanLyKhachSan&theme=radical&hide_border=true" />
+  </a>
+  <a href="https://github.com/chuong647/DTDD">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=chuong647&repo=DTDD&theme=radical&hide_border=true" />
+  </a>
+</div>
 
 <br />
 
-## 📫 How to reach me:
-
-<p align="center">
-  <a href="https://linkedin.com/in/dangthanhchuong6767" target="_blank">
-    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
-  </a>
-  <a href="https://www.facebook.com/chuong647" alt="Facebook">
-    <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
-  </a> 
-  <a href="https://www.youtube.com/channel/UCRcau6ROt4nCbGTVaC6MaFg" alt="Youtube channel" target="_blank" >
-    <img src="https://img.icons8.com/fluent/48/000000/youtube-play.png"/>
-  </a>
-  <a href="https://github.com/chuong647" alt="Github">
-    <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
-  </a> 
-  <a href="mailto:dangthanhchuong0202it@gmail.com" alt="Email">
-    <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
-  </a>
-</p>
-
-## Skills:
-<p align="center">
-  <!--<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="48" height="48"/>-->
-  <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
-  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
-  <img src="https://img.icons8.com/color/48/000000/git.png"/>
-  <img src="https://img.icons8.com/color/48/000000/github.png"/>
-  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
-  <img src="https://img.icons8.com/color/48/null/visual-studio--v2.png"/>
-  <img src="https://img.icons8.com/color/48/000000/php.png"/>
-  <img src="https://img.icons8.com/color/48/000000/intellij-idea.png"/>  
-</p>
-
-## Activities:
-
-<table style="width:100%;">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chuong647&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10&custom_title=Top%20ngôn%20ngữ%20được%20dùng" alt="chuong647" width="100%"/>
-      <img src="https://github-readme-stats.vercel.app/api?usernamechuong647&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=Hoạt%20động%20trên%20Github" alt="chuong647" width="100%"/>
-    </td>
-    <td>
-      <p align="center"> 
-        <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="dev" width="100%"/>
-      </p>
-    </td>
-  </tr>
-</table>
-
-## Certificates:
-
-<img align="right" width="400" src="https://github.githubassets.com/images/modules/profile/profile-joined-github.svg">
-
-- [![MATLAB](https://img.shields.io/badge/-MATLAB-orange) Onramp](https://matlabacademy.mathworks.com/progress/share/certificate.html?id=c2f444b8-d6ce-4eef-9934-48d7fa7da2d1)
-- [![MATLAB](https://img.shields.io/badge/-MATLAB-orange) Machine Learning Onramp](https://matlabacademy.mathworks.com/progress/share/certificate.html?id=ad7fb8de-67d7-487f-95ee-f3871a61b1e1)
-- [![COURSERA](https://img.shields.io/badge/-COURSERA-green) Introduction to JavaScript](https://www.coursera.org/account/accomplishments/certificate/XFNU3UXCK5DG)
-- [![COURSERA](https://img.shields.io/badge/-COURSERA-green) Audio Classification with TensorFlow](https://www.coursera.org/account/accomplishments/certificate/MBSDFCKQ9X8E)
-## Source Code:
-<a href="https://github.com/chuong647/QuanLyQuanCafeLike/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=chuong647&repo=QuanLyQuanCafeLike&theme=radical" />
-</a>    
-<a href="https://github.com/chuong647/QuanLyVeMayBay/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=chuong647&repo=QuanLyVeMayBay&theme=merko" />
-</a>
-
-<a href="https://github.com/chuong647/STSV/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=chuong647&repo=STSV&theme=gruvbox" />
-</a>    
-<a href="https://github.com/chuong647/QuanLyKhachSan/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=chuong647&repo=QuanLyKhachSan&theme=dark" />
-</a>
-
-<a href="https://github.com/chuong647/DTDD/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=chuong647&repo=DTDD&theme=onedark" />
-</a>    
+<div align="center">
+  <sub>Designed with ❤️ by Dang Thanh Chuong</sub>
+</div>
